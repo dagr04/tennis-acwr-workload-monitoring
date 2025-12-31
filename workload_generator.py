@@ -10,7 +10,9 @@ class WorkloadGenerator:
 
     def generate_day(self):
         if self.rest_day:
-            practice_h = gym_h = match_h = 0
+            practice_h = 0
+            gym_h = 0
+            match_h = 0
             intensity = 1
             workload = 0
             self.rest_day = False
