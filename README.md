@@ -14,7 +14,6 @@ The system calculates:
 - **ACWR** = $\frac{\text{Acute Load}}{\text{Chronic Load}}$.
  
 ## The Solution
-A **Team Risk Dashboard** was created to:
 - Track ACWR trends over time for each athlete
 - Provide actionable workload recommendations (reduce, maintain, or increase load)
 
